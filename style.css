@@ -1,0 +1,101 @@
+.body {
+  margin: 0rem;
+  background-color: rgba(101, 101, 168, 0.559);
+}
+
+.head3 {
+  display: flex;
+  gap: 20px;
+  padding-left: 70%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  padding-top: 40px;
+}
+
+.head1 {
+  padding-top: 20px;
+  justify-content: center;
+  display: flex;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 80px;
+  filter: drop-shadow(10px 5px 10px rgb(0, 0, 0));
+  margin-top: 10px;
+}
+
+.head2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+.section1 {
+    padding-top: 40px;
+  padding-left: 120px;
+  font-size: 50px;
+  margin-top: 80px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.ul {
+  display: flex;
+}
+
+.img1{
+  position: absolute;
+  right: 10%;
+  bottom: 15%;
+  margin-top: 70px;
+}
+
+.word-spacing {
+  margin-right: 1em;
+}
+
+.logo{
+  height: 120px;
+  position: absolute;
+  right: 2%;
+  top: 0;
+  border-radius: 60%;
+}
+
+.a{
+  padding: 5px 15px;
+  border: 2px solid #a2b8b7ad;
+  color: #ffffff;
+  position: relative;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  height: 35px;
+  text-decoration: none;
+  text-align-last: 80px;
+}
+
+.a:hover{
+  border: 2px solid #ffffff;
+  background: none;
+  transform: scale(1.1);
+}
+
+
+.footer1{
+  padding-top: 100px;
+  text-align: center;
+  font-size: 13px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nike{
+  color: black;
+  padding: 30px;
+}
+
+.footer2{
+padding-top: 30px;
+text-decoration: underline;
+}

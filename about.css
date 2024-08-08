@@ -1,0 +1,90 @@
+.head3 {
+    display: flex;
+    gap: 20px;
+    padding-left: 70%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding-top: 40px;
+}
+
+.head1 {
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 80px;
+    filter: drop-shadow(10px 5px 10px rgb(0, 0, 0));
+    margin-top: 10px;
+}
+
+.body {
+    margin: 0rem;
+    background-color: rgba(101, 101, 168, 0.559);
+}
+
+.logo {
+    height: 120px;
+    position: absolute;
+    right: 2%;
+    top: 0;
+    border-radius: 60%;
+}
+
+.a {
+    border: 2px solid #a2b8b7ad;
+    padding: 5px 15px;
+    color: #ffffff;
+    position: relative;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    height: 35px;
+    text-decoration: none;
+    text-align-last: 80px;
+}
+
+.a:hover {
+    border: 2px solid #ffffff;
+    background: none;
+    transform: scale(1.1);
+}
+
+.top{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+.title{
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para{
+    margin-left: 70px;
+    margin-right: 10rem;
+    font-size: 20px;
+
+
+}
+.footer1 {
+    padding-top: 100px;
+    text-align: center;
+    font-size: 13px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.nike {
+    color: black;
+    padding: 30px;
+}
+
+.footer2 {
+    padding-top: 30px;
+    text-decoration: underline;
+}
